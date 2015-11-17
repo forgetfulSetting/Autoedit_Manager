@@ -1,0 +1,7 @@
+C:\Users\Wrightli\Documents\GitHub\Autoedit_Manager\Autoedit_Manager\Autoedit_Manager\bin\Debug\Autoedit_Manager.exe
+C:\Users\Wrightli\Documents\GitHub\Autoedit_Manager\Autoedit_Manager\Autoedit_Manager\bin\Debug\Autoedit_Manager.pdb
+C:\Users\Wrightli\Documents\GitHub\Autoedit_Manager\Autoedit_Manager\Autoedit_Manager\obj\x86\Debug\Autoedit_Manager.Properties.Resources.resources
+C:\Users\Wrightli\Documents\GitHub\Autoedit_Manager\Autoedit_Manager\Autoedit_Manager\obj\x86\Debug\Autoedit_Manager.csproj.GenerateResource.Cache
+C:\Users\Wrightli\Documents\GitHub\Autoedit_Manager\Autoedit_Manager\Autoedit_Manager\obj\x86\Debug\Autoedit_Manager.exe
+C:\Users\Wrightli\Documents\GitHub\Autoedit_Manager\Autoedit_Manager\Autoedit_Manager\obj\x86\Debug\Autoedit_Manager.pdb
+C:\Users\Wrightli\Documents\GitHub\Autoedit_Manager\Autoedit_Manager\Autoedit_Manager\obj\x86\Debug\Autoedit_Manager.Form_AutoeditManager.resources
