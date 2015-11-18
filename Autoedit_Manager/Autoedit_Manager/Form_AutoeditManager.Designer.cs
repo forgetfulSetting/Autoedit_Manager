@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.button_NewXml = new System.Windows.Forms.Button();
+            this.saveFileDialog_XMLFile = new System.Windows.Forms.SaveFileDialog();
             this.SuspendLayout();
             // 
             // button_NewXml
@@ -56,6 +57,7 @@
         #endregion
 
         private System.Windows.Forms.Button button_NewXml;
+        private System.Windows.Forms.SaveFileDialog saveFileDialog_XMLFile;
 
     }
 }
