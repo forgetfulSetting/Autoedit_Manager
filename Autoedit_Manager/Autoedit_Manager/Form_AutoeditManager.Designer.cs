@@ -30,6 +30,8 @@
         {
             this.button_NewXml = new System.Windows.Forms.Button();
             this.saveFileDialog_XMLFile = new System.Windows.Forms.SaveFileDialog();
+            this.AutoeditTreeview = new System.Windows.Forms.TreeView();
+            this.button_Add_Autoedit = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button_NewXml
@@ -42,11 +44,30 @@
             this.button_NewXml.UseVisualStyleBackColor = true;
             this.button_NewXml.Click += new System.EventHandler(this.button_NewXml_Click);
             // 
+            // AutoeditTreeview
+            // 
+            this.AutoeditTreeview.Location = new System.Drawing.Point(12, 50);
+            this.AutoeditTreeview.Name = "AutoeditTreeview";
+            this.AutoeditTreeview.Size = new System.Drawing.Size(254, 240);
+            this.AutoeditTreeview.TabIndex = 1;
+            // 
+            // button_Add_Autoedit
+            // 
+            this.button_Add_Autoedit.Location = new System.Drawing.Point(12, 434);
+            this.button_Add_Autoedit.Name = "button_Add_Autoedit";
+            this.button_Add_Autoedit.Size = new System.Drawing.Size(254, 23);
+            this.button_Add_Autoedit.TabIndex = 2;
+            this.button_Add_Autoedit.Text = "Add Autoedit";
+            this.button_Add_Autoedit.UseVisualStyleBackColor = true;
+            this.button_Add_Autoedit.Click += new System.EventHandler(this.button_Add_Autoedit_Click);
+            // 
             // Form_AutoeditManager
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(556, 469);
+            this.Controls.Add(this.button_Add_Autoedit);
+            this.Controls.Add(this.AutoeditTreeview);
             this.Controls.Add(this.button_NewXml);
             this.Name = "Form_AutoeditManager";
             this.Text = "Autoedit Manager";
@@ -58,6 +79,8 @@
 
         private System.Windows.Forms.Button button_NewXml;
         private System.Windows.Forms.SaveFileDialog saveFileDialog_XMLFile;
+        private System.Windows.Forms.TreeView AutoeditTreeview;
+        private System.Windows.Forms.Button button_Add_Autoedit;
 
     }
 }

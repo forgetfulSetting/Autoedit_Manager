@@ -5,3 +5,4 @@ C:\Users\Wrightli\Documents\GitHub\Autoedit_Manager\Autoedit_Manager\Autoedit_Ma
 C:\Users\Wrightli\Documents\GitHub\Autoedit_Manager\Autoedit_Manager\Autoedit_Manager\obj\x86\Debug\Autoedit_Manager.exe
 C:\Users\Wrightli\Documents\GitHub\Autoedit_Manager\Autoedit_Manager\Autoedit_Manager\obj\x86\Debug\Autoedit_Manager.pdb
 C:\Users\Wrightli\Documents\GitHub\Autoedit_Manager\Autoedit_Manager\Autoedit_Manager\obj\x86\Debug\Autoedit_Manager.Form_AutoeditManager.resources
+C:\Users\Wrightli\Documents\GitHub\Autoedit_Manager\Autoedit_Manager\Autoedit_Manager\obj\x86\Debug\Autoedit_Manager.csprojResolveAssemblyReference.cache
